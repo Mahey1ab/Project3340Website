@@ -1,0 +1,16 @@
+body {
+    background-color: linen;
+    text-align: center;
+}
+
+h1,h2,h3 {
+    color: maroon;
+    margin-left: 40px;
+    font-family:tahoma,arial;
+}
+
+h4,h5 {
+    color: blueviolet;
+    margin-left: 40px;
+}
+

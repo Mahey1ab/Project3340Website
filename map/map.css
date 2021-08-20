@@ -1,0 +1,60 @@
+
+body{
+  background-color: white;
+}
+
+p{
+  font-family: 'Helvetica', sans-serif;
+  font-weight: 300;
+  text-size: 12px;
+  
+}
+
+h1{
+   text-align: center;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 20px;
+}
+
+
+.Toronto-txt{
+  top: 1130px;
+  left: 1290px;
+  text-decoration: none;
+  color: #008CBA;
+}
+
+.Windsor-txt{
+  top: 1110px;
+  left: 870px;
+  text-decoration: none;
+  color: #008CBA;
+}
+
+.Quebec-txt{
+  top: 960px;
+  left: 1280px;
+  text-decoration: none;
+  color: #008CBA;
+}
+
+.Edmonton-txt{
+  top: 730px;
+  left: 350px;
+  text-decoration: none;
+  color: #008CBA;
+}
+.Winnipeg-txt{
+  top: 845px;
+  left: 700px;
+  text-decoration: none;
+  color: #008CBA;
+}
+.inv{
+  background-color: rgba(0,0,0,.9);
+  border-radius: 20px;
+  text-aligh: center;
+  position: absolute;
+padding: 10px 20px;
+  font-size: 12px;
+}
